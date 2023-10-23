@@ -112,6 +112,9 @@ Here are some ideas to get you started:
 ```text
 From: 01 April 2022 - To: 08 April 2022
 
+Python   13 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+
+
 JavaScript   13 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   28.79 %
 PHP          11 hrs 31 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
 Vue.js       9 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
